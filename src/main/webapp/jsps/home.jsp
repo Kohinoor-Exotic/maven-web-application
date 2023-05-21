@@ -13,7 +13,7 @@
 <h1 align="center">In These Farm C varity Dragon Fruit Plants are Planation </h1>
 <hr>
 <br>
-	<h1><h3> address Boblad akkalkot solapur </h3><br>
+	<h1><h3>QA Code address Boblad akkalkot solapur </h3><br>
 
 <% 
 String ip = "";
