@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies. Karnataka,India </h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Kohinoor Exotic Dragon Fruit Farm in Solapur. Maharashtra,Solapur,India </h1>
+<h1 align="center">In These Farm C varity Dragon Fruit Plants are Planation </h1>
 <hr>
 <br>
-	<h1><h3> Server Side IP Address </h3><br>
+	<h1><h3> address Boblad akkalkot solapur </h3><br>
 
 <% 
 String ip = "";
@@ -34,11 +34,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,India
+		aqeeb karajgi, 
+		sahar hotgi road ,solapur,
+		solapur,India
 		+91-8007228105,+91-9900012028
-		devopstrainingblr@gmail.com
+		aqeeb123@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
